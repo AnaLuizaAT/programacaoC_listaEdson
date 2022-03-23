@@ -1,0 +1,20 @@
+# ninja log v5
+0	80	6695780055238862	CMakeFiles/programacaoC_listaEdson.dir/main.c.obj	94ba59626c80829f
+2	78	6695833374921497	CMakeFiles/listaEdson1-b.c.dir/listaEdson1-b.c.obj	eaa666d58605f74d
+1	210	6697658518165565	build.ninja	343a53b746723f9b
+2	109	6695831725534635	programacaoC_listaEdson.exe	1649a1dc9ce7f54e
+2	68	6695823269744485	CMakeFiles/programacaoC_listaEdson.dir/listaEdson1-a.c.obj	c0f47eedf65c7d53
+2	80	6695826826851104	CMakeFiles/programacaoC_listaEdson.dir/listaEdson1-b.c.obj	e5b6a7dd73b9aae0
+0	75	6695832141138726	CMakeFiles/listaEdson1-a.c.dir/listaEdson1-a.c.obj	90b27d55611c2981
+76	175	6695832142097840	listaEdson1-a.c.exe	b7a459288b85bae7
+79	175	6695833375800911	listaEdson1-b.c.exe	578c33cc3afdcdb5
+1	82	6695840948675069	CMakeFiles/listaEdson1-c.c.dir/listaEdson1-c.c.obj	4561f4d01cd487b1
+82	193	6695840949822747	listaEdson1-c.c.exe	11a227b48bee811b
+1	79	6695843600687197	CMakeFiles/listaEdson1-d.c.dir/listaEdson1-d.c.obj	9d3b42d8148969ba
+78	176	6695844804913940	listaEdson1-e.c.exe	55abb6f698f46ce6
+79	177	6695843601646555	listaEdson1-d.c.exe	d8f12f6d44cb7baf
+1	78	6695844803954581	CMakeFiles/listaEdson1-e.c.dir/listaEdson1-e.c.obj	ea7f785d8bca64fe
+2	242	6697648198205226	CMakeFiles/listaEdson1-f.c.dir/listaEdson1-f.c.obj	bf72ce17d4d45262
+243	585	6697648201577544	listaEdson1-f.c.exe	203c95a2331c1aba
+0	94	6697658555073066	CMakeFiles/listaEdson1-m.c.dir/listaEdson1-m.c.obj	d66a72061bb4a120
+95	212	6697658556272265	listaEdson1-m.c.exe	1bf8aa0b3b60f20f

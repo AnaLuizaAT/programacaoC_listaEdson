@@ -1,0 +1,3 @@
+C:/Users/Ana Luiza/CLionProjects/programacaoC-listaEdson/cmake-build-debug/CMakeFiles/listaEdson1-m.c.dir
+C:/Users/Ana Luiza/CLionProjects/programacaoC-listaEdson/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ana Luiza/CLionProjects/programacaoC-listaEdson/cmake-build-debug/CMakeFiles/rebuild_cache.dir
