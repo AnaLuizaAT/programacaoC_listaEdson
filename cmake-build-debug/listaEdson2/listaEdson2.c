@@ -5,10 +5,7 @@
 //ANA LUIZA ARAUJO TORRES
 //15/03/2022
 
-#include <math.h>
-#include <time.h>
 #include <stdio.h>
-#include <string.h>
 #include <stdlib.h>
 
 void dobro();
@@ -388,7 +385,6 @@ void calc(float num1, float num2, char operacao) {
     }
 }
 
-// FUNCOES
 float triplo(float numero) {
 
     float resultado;
